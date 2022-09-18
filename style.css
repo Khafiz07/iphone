@@ -1,0 +1,411 @@
+.iphone{
+    height: 600px;
+    margin-left: 38%;
+    background-image: url(iphonebac.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.iphone2{
+    position: absolute;
+    top: -120px;
+    width: 570px;
+}
+.head{
+    width: 260px;
+    height: 563px;
+    position: absolute;
+    top: 26px;
+    left: 39.6%;
+    border-radius: 26px;
+}
+.head1{
+    width: 260px;
+    height:21px;
+    border-top-left-radius: 26px;
+    border-top-right-radius: 26px;
+}
+.watch{
+    width: 50px;
+    height: 30px;
+    color: white;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    position: relative;
+    top: 10px;
+    left: 17px;
+}
+.antena{
+    position: relative;
+    left: 202px;
+    color: white;
+    font-size: 11px;
+    top: -25px;
+}
+.wifi{
+    color: white;
+    position: relative;
+    left: 200px;
+    top: -25px;
+    font-size: 17px;
+}
+.battery{
+    color: white;
+    position: relative;
+    left: 200px;
+    top: -23px;
+}
+.head2{
+    width: 260px;
+    height: 542px;
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+}
+.head3{
+    display: flex;
+}
+.head3 div{
+    width: 43px;
+    height: 43px;
+    border-radius: px;
+    margin-left: 17px;
+    border-radius: 12px;
+    margin-top: 28px;
+}
+.head4{
+    width: 240px;
+    height: 60px;
+    background-color: rgba(216, 240, 232,0.30);
+    margin-left: 10px;
+    margin-top: 107px;
+    border-radius: 15px;
+    display: flex;
+}
+.head4 :nth-child(1) img{
+    width: 43px;
+    height: 43px;
+    background-color: black;
+    margin-left: 8px;
+    margin-top: 8px;
+    border-radius: 12px;
+}
+.head4 :nth-child(2) img{
+    width: 43px;
+    height: 43px;
+    background-color: black;
+    margin-left: 17px;
+    margin-top: 8px;
+    border-radius: 12px;
+}
+.head4 :nth-child(3) img{
+    width: 43px;
+    height: 43px;
+    background-color: black;
+    margin-left: 17px;
+    margin-top: 8px;
+    border-radius: 12px;
+}
+.head4 :nth-child(4) img{
+    width: 43px;
+    height: 43px;
+    background-color: black;
+    margin-left: 17px;
+    margin-top: 8px;
+    border-radius: 12px;
+}
+.head5{
+    position: relative;
+    top: 100px;
+    left: 115px;
+    width: 30px;
+    height: 10px;
+    display: flex;
+}
+.head5 :nth-child(1){
+    width: 5px;
+    height:5px;
+    background-color: rgb(222, 207, 207);
+    border-radius: 50%;
+}
+.head5 :nth-child(2){
+    width: 5px;
+    height:5px;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: 7px;
+}
+.head5 :nth-child(3){
+    width: 5px;
+    height:5px;
+    background-color: rgb(222, 207, 207);
+    border-radius: 50%;
+    margin-left: 8px;
+}
+.email{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 6.5px;
+    top: 5px;
+}
+.bir{
+    background-color: blue;
+}
+.bir p{
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 2px;
+}
+.ikki{
+    background-color: white;
+}
+.ikki :nth-child(1){
+    font-size: 9px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    font-weight: bold;
+    position: relative;
+    top: -4px;
+}
+.ikki :nth-child(2){
+    font-size: 25px;
+    text-align: center;
+    position: relative;
+    top: -31px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ikki :nth-child(3){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -52px;
+}
+.uch{
+    background-color: white;
+}
+.uch img{
+    width: 43px;
+    border-radius: 20px;
+}
+.uch :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.tort{
+    background: white;
+}
+.tort :nth-child(1){
+    color: rgb(62, 62, 62);
+    font-size: 35px;
+    margin-left: 3.5px;
+    position: relative;
+    top: 3px;
+}
+.tort :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -3px;
+}
+.bew{
+    background-color: white;
+}
+.bew img{
+    width: 41px;
+    border-radius: 10px;
+    margin-left: 1px;
+    margin-top: 1px;
+}
+.bew :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.olti{
+    background-color: black;
+}
+.olti img{
+    width: 35px;
+    border-radius: 10px;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.olti :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -7px;
+}
+.yetti img{
+    width: 43px;
+    border-radius: 10px;
+}
+.yetti :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.sakkiz img{
+    width: 44px;
+    border-radius: 10px;
+}
+.sakkiz :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.toqiz img{
+    width: 43px;
+    border-radius: 10px;
+}
+.toqiz :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.on img{
+    width: 43px;
+    border-radius: 10px;
+}
+.on :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.onbir img{
+    width: 43px;
+    border-radius: 10px;
+}
+.onbir :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.onikki img{
+    width: 43px;
+    border-radius: 10px;
+}
+.onikki :nth-child(2){
+    color: white;
+    font-size: 9px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -8px;
+}
+.onuch img{
+    width: 43px;
+    border-radius: 10px;
+}
+.onuch :nth-child(2){
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -10px;
+}
+.ontort img{
+    width: 43px;
+    border-radius: 10px;
+}
+.ontort p{
+    color: white;
+    font-size: 9px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -9px;
+}
+.onbew img{
+    width: 43px;
+    border-radius: 10px;
+}
+.onbew p{
+    color: white;
+    font-size: 7.6px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -6px;
+}
+.onolti img{
+    width: 43px;
+    border-radius: 10px;
+}
+.onolti p{
+    color: white;
+    font-size: 9px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -8px;
+}
+.onyetti img{
+    width: 43px;
+    border-radius: 10px;
+}
+.onyetti p{
+    color: white;
+    font-size: 9px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -8px;
+}
+.onsakiz img{
+    width: 43px;
+    border-radius: 10px;
+}
+.onsakiz p{
+    color: white;
+    font-size: 9px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -8px;
+}
+.ontoqiz img{
+    width: 43px;
+    border-radius: 10px;
+}
+.ontoqiz p{
+    color: white;
+    font-size: 8px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -7px;
+}
